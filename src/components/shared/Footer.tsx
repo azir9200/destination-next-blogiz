@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="footer footer-center p-16 bg-base-200 text-base-content rounded">
       <div>
         <div className="flex items-center">
-          <Image src={brandLogo} width={60} height={60} alt="brand logo" />
+          {/* <Image src={brandLogo} width={60} height={60} alt="brand logo" /> */}
           <p className="text-3xl font-bold ml-3">Blogiz</p>
         </div>
         <p className="w-2/3 mt-2 text-gray-400">

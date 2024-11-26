@@ -5,7 +5,7 @@ import Banner from "./Banner";
 const Header = () => {
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       <Banner />
     </>
   );
